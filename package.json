@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "2.1.1",
+  "description": "ex",
+  "main": "node",
+  "scripts": {
+    "test": "line"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nodeassignment"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "node",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
